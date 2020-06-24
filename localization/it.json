@@ -1,0 +1,12 @@
+{
+  "e_generic": "C'è stato un errore! Contatta lo sviluppatore [qui]()!",
+  "e_missingperms": "Non sono riuscito ad entrare! Controlla i permessi!",
+  "e_novc": "Devi prima entrare in una vocale!",
+  "e_lang": "Non ho trovato quella lingua!",
+  
+  
+  "a_langset": "Ho cambiato con successo la lingua predefinita!",
+  "a_autoenabled": "Modalità automatica attivata!",
+  "a_autodisabled": "Modalità automatica disattivata!"
+  
+}
