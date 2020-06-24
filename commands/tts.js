@@ -12,7 +12,7 @@ async execute(message, args) {
   const cross = message.client.emojis.cache.get( 655807081240330245);
   var ttsMessage = args.join(" ")
   
-  var ttsLink = "http://getparty.ml/hear?text=" + encodeURIComponent(ttsMessage) + "&lang=en"
+  var ttsLink = "http://getparty.ml/hear?text=" + encodeURIComponent(ttsMessage) + "&lang=it"
   
   if (message.member.voice.channel) {
 		const connection = await message.member.voice.channel.join();
