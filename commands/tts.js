@@ -5,8 +5,8 @@ const { t } = require('localizify');
 module.exports = {
 	name: 'say',
 	description: 'talk like a pro!',
-
-
+  
+  
   async execute(message, args) {
     const tick = message.client.emojis.cache.get("655807079784644608");
     const cross = message.client.emojis.cache.get("655807081240330245");
@@ -36,7 +36,6 @@ module.exports = {
     } else {
       message.channel.send(t("e_noVC"))
     }
-
   }
 }  
   
