@@ -1,0 +1,12 @@
+{
+  "e_generic": "Es gab einen Fehler! Bitte kontaktiere den Entwickler [here]()!",
+  "e_missingPerms": "Der Bot konnte dem Sprachchat nicht beitreten, bitte überprüfe die Berechtigungen!",
+  "e_noVC": "Trete zuerst einem Sprachchat bei!",
+  "e_unknownLang": "Diese Sprache konnte nicht gefunden werden!",
+  
+  "a_langSet": "Die Standartsprache wurde erfolgreich verändert!",
+  "a_autoEnabled": "Automatisch Modus aktiviert!",
+  "a_autoDisabled": "Automatisch Modus deaktiviert!",
+  
+  "v_says": "{user} sagt {text}"
+}  

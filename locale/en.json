@@ -1,0 +1,12 @@
+{
+  "e_generic": "There was an error! please contact the developer [here]()!",
+  "e_missingPerms": "I couldn't join the VC, please check the permissions!",
+  "e_noVC": "Join a VC please!",
+  "e_unknownLang": "I couldn't find that language!",
+  
+  "a_langSet": "Successfully changed the default language!",
+  "a_autoEnabled": "Automatic Mode enabled!",
+  "a_autoDisabled": "Automatic Mode disabled!",
+  
+  "v_says": "{user} says {text}"
+}

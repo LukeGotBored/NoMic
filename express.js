@@ -11,5 +11,3 @@ setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000);
 
-
-// questo file è roba tecnica, praticamente ogni volta che si avvia cerca di "ascoltare" su una porta di rete, questo script fa tutto facilmente
