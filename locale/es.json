@@ -1,0 +1,12 @@
+{
+  "e_generic": "¡Hubo un error! Por favor, contacte con el desarrollador [aquí]().",
+  "e_missingPerms": "No pude unirme al canal de voz, por favor revisa mis permisos.",
+  "e_noVC": "¡Únete a un canal de voz!",
+  "e_unknownLang": "¡No conozco ese idioma!",
+  
+  "a_langSet": "¡Cambié el idioma por defecto!",
+  "a_autoEnabled": "Modo automático activado.",
+  "a_autoDisabled": "Modo automático desactivado.",
+  
+  "v_says": "{user} dice {text}"
+}

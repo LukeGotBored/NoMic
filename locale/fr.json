@@ -1,0 +1,12 @@
+{
+  "e_generic" : "Il y a eu une erreur ! Veuillez contacter le développeur [ici]()!",
+  "e_missingPerms": "Je n'ai pas pu me joindre au chat vocal, veuillez vérifier les autorisations!",
+  "e_noVC": "Rejoignez le chat vocal, s'il vous plaît!",
+  "e_unknownLang" : "Je n'ai pas pu trouver cette langue!",
+
+  "a_langSet": "J'ai réussi à changer la langue par défaut!",
+  "a_autoEnabled": "Mode automatique activé!",
+  "a_autoDisabled": "Mode automatique désactivé!",
+  
+  "v_says": "{user} dit {text}"
+}
