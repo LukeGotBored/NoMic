@@ -29,6 +29,7 @@ module.exports = {
     }
     var ttsURL = "http://getparty.ml/hear?text=" + encodeURIComponent(ttsMessage) + "&lang=fr"
 
+    
     if (message.member.voice.channel) {
       const connection = await message.member.voice.channel.join();
       const dispatcher = connection.play(ttsURL);
